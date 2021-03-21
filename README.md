@@ -4,7 +4,8 @@ Data viz components:
 3. Onsite study
 4. Donation Simulator
 example of the visual https://www.washingtonpost.com/graphics/2020/health/coronavirus-how-epidemics-spread-and-end/ ;
-how to plot point cloud in d3 https://bocoup.com/blog/smoothly-animate-thousands-of-points-with-html5-canvas-and-d3
+how to plot point cloud in d3 https://bocoup.com/blog/smoothly-animate-thousands-of-points-with-html5-canvas-and-d3 ;
+Point Cloud code example: http://bl.ocks.org/dianaow/6a50292357511ceac3b78fc0fab4a2b5; 
 
 Use React: 
 1. normally  https://www.npmjs.com/ where all js packages are hosted. But for js coding in browser content distripution network (CDN) is typically used. unpkg.com is a CDN for npmjs.com
